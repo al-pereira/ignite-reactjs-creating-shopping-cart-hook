@@ -40,7 +40,7 @@ yarn start
 
 Access the a url
 ```
-http://localhost:3333
+http://localhost:3000
 ```
 
 ## Licence
